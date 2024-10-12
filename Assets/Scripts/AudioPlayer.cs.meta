@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dab00c68ae571bc4688b45138e44b2c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - src: {instanceID: 0}
+  - corect: {fileID: 8300000, guid: 62f03b55c81e70d49a8157b6f4ac78d9, type: 3}
+  - gresit: {fileID: 8300000, guid: 851acaf10e1321f41ae761b89c618cd6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
